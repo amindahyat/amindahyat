@@ -45,7 +45,7 @@
   <a href="http://www.ADAproductions.ir">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/amin-dahyat-9389013a2">
+  <a href="https://linkedin.com/in/amindahyat">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>

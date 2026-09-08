@@ -25,19 +25,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-### 📊 آمار گیت‌هاب
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amindahyat&show_icons=true&theme=radical&locale=fa" alt="آمار گیت‌هاب" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amindahyat&layout=compact&theme=radical&locale=fa" alt="زبان‌های پرکاربرد" />
-</p>
-
----
 
 ### 📌 پروژه‌های شاخص
 
@@ -45,7 +32,7 @@
 | :--- | :--- |
 | **[ADALims](https://github.com/amindahyat/ADALims)** | سامانه‌ی جامع مدیریت و پذیرش آزمایشگاه (پذیرش نمونه، آزمون‌ها، گزارش‌گیری، فاکتور، عدم‌قطعیت) |
 | **[ADAGUM](https://github.com/amindahyat/ADAGUM)** | ابزار محاسبه‌ی عدم‌قطعیت اندازه‌گیری بر اساس استاندارد ISO/IEC 17025 با خروجی گزارش HTML |
-
+| **[ADASDS](https://github.com/amindahyat/ADAGUM)** | تولید‌کننده‌ی حرفه‌ای برگه‌های اطلاعات ایمنی مواد (MSDS) |
 ---
 
 ### 📫 راه‌های ارتباطی
@@ -57,9 +44,6 @@
   <a href="http://www.ADAproductions.ir">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://t.me/amindahyat">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/amindahyat">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -67,5 +51,4 @@
 
 ---
 
-> **"ساختن ابزارهایی که کار دشوار را آسان می‌کنند، هدف من است."**  
 > — امین دحیات
